@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lil-boss&label=Profile%20views&color=0e75b6&style=flat" alt="lil-boss" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lil-boss" alt="lil-boss" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://rakibul-h-shaon.netlify.app/](https://rakibul-h-shaon.netlify.app/)
 
